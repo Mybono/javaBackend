@@ -26,7 +26,7 @@ public class HW4 extends Abstract {
     @Test
     void getComplexSearchBurger() {
         given().spec(requestSpecification)
-                .queryParam("apiKey", "a584a569d84446218a8934bb8f883d15")
+                .queryParam("apiKey", "02f3d8ab85d54af69db9e18220c414ba")
                 .queryParam("query", "burger")
                 .when()
                 .get("https://api.spoonacular.com/recipes/complexSearch")
@@ -38,7 +38,7 @@ public class HW4 extends Abstract {
     @Test
     void getComplexSearchSugar() {
         given().spec(requestSpecification)
-                .queryParam("apiKey", "a584a569d84446218a8934bb8f883d15")
+                .queryParam("apiKey", "02f3d8ab85d54af69db9e18220c414ba")
                 .queryParam("maxSugar", "100")
                 .queryParam("number", "5")
                 .when()
@@ -50,7 +50,7 @@ public class HW4 extends Abstract {
     @Test
     void getComplexSearchVitaminB12() {
         given().spec(requestSpecification)
-                .queryParam("apiKey", "a584a569d84446218a8934bb8f883d15")
+                .queryParam("apiKey", "02f3d8ab85d54af69db9e18220c414ba")
                 .queryParam("maxVitaminB12", "100")
                 .when()
                 .get("https://api.spoonacular.com/recipes/complexSearch")
@@ -60,7 +60,7 @@ public class HW4 extends Abstract {
     @Test
     void getComplexSearchCaffeine() {
         given().spec(requestSpecification)
-                .queryParam("apiKey", "a584a569d84446218a8934bb8f883d15")
+                .queryParam("apiKey", "02f3d8ab85d54af69db9e18220c414ba")
                 .queryParam("minCaffeine", "0")
                 .when()
                 .get("https://api.spoonacular.com/recipes/complexSearch")

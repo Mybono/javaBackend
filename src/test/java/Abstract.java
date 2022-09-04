@@ -20,7 +20,7 @@ public abstract class Abstract {
                 .build();
 
         requestSpecification = new RequestSpecBuilder()
-                .addQueryParam("apiKey", "a584a569d84446218a8934bb8f883d15")
+                .addQueryParam("apiKey", "02f3d8ab85d54af69db9e18220c414ba")
                 .addQueryParam("includeNutrition", "false")
                 .setContentType(ContentType.JSON)
                 .log(LogDetail.ALL)

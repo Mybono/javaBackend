@@ -5,16 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="750f91b4-934a-4c48-88db-d807e5cd6a81" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/HW5/CategoryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HW5/GetCategoryResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HW5/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HW5/ProductService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HW5/RetroUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Abstract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/HW3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/HW4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Abstract.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Abstract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/HW3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HW3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/HW4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HW4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,16 +29,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
