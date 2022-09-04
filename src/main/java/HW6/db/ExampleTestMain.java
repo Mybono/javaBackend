@@ -21,9 +21,6 @@ public class ExampleTestMain {
 
         categoriesExample.createCriteria().andIdEqualTo(1L);
 
-//        List<Categories> list = categoriesMapper.selectByExample(categoriesExample);
-//        System.out.println(categoriesMapper.countByExample(categoriesExample));
-
         db.model.Categories selected = categoriesMapper.selectByPrimaryKey(2L);
         System.out.println("ID: " + selected.getId() + "\ntitle: " + selected.getTitle());
     }
