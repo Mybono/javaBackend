@@ -8,7 +8,6 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="backendJava" />
-        <module name="javaBackend" />
       </profile>
     </annotationProcessing>
   </component>

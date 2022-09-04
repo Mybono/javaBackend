@@ -6,12 +6,10 @@ import org.apache.ibatis.session.SqlSessionFactory;
 import org.apache.ibatis.session.SqlSessionFactoryBuilder;
 import org.junit.jupiter.api.BeforeAll;
 
-import static org.hamcrest.CoreMatchers.is;
-import static org.hamcrest.MatcherAssert.assertThat;
-import static org.hamcrest.Matchers.equalTo;
-
 import java.io.IOException;
 import java.io.InputStream;
+
+import static org.hamcrest.CoreMatchers.is;
 
 public class Test {
     static SqlSession session;
