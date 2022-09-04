@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="750f91b4-934a-4c48-88db-d807e5cd6a81" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/HW5/CreateProductTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/HW5/GetCategoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/generatorConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mybatis-config.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/HW5/CategoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HW5/CategoryService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/HW5/GetCategoryResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HW5/GetCategoryResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/HW5/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HW5/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/HW5/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HW5/ProductService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/HW5/RetroUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HW5/RetroUtils.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +38,38 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="backendJava [verify]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="verify" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Maven.backendJava [verify]" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
